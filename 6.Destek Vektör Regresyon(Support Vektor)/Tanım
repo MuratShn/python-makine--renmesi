@@ -1,0 +1,12 @@
+Eskiden Regresyon için kullanılmazdı sınıflandırma problemı olarak kullanılırdı
+çıkmasındakı mantık dogrusal olarak bırbırınden ayrılabılen ıkı sınıfı bırbırınden ayırmak
+1. fotodakı grafıklerdekı noktaları 2 ye ayırmak fakat dogruyu bırbırıne en yakın noktalar arasındakı
+ortak boslugu cızmek gıbı
+
+Tarihsel çıkış amacı sınıflandırmak ıcın ve maks aralıga sahip olması sınıfların
+
+Regresyona geçildiğinde maks noktayı alabılen aralıga sahip
+2.fotoda gordugumuz uzere dogru bu sefer en fazla kac dogruyu almaya calısmaktadır
+polinom ve egrıler cızmekte mumkun
+
+SVR amacı bir margin aralıgına maks noktayı alabılecek ornek olarak tasarlanıyor

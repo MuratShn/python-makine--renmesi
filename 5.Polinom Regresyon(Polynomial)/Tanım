@@ -1,0 +1,7 @@
+çoklu doğusal regresyondan farkı xlerin dereceleridir xüzeri2 x.x vesaiyire
+
+Çokul Doğrusal === boy = a + b(kilo) + c(yaş) + d (ayak no)
+polinom regresyonda ise örnegin boyu = kilo x kilo x yaş üzeri 3 gibi düşünülenbilir
+veriyi çizdirdiğimiz zaman bir doğrudan daha çok bir eğik çizgi görmemiz olası
+
+verilerimizde maas ve egıtım sevıyesı polinomal ilişkiye sokucalacak verilerdi bir doğruyu ifade etmiyodu 

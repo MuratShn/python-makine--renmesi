@@ -1,0 +1,14 @@
+Genelde sınıflandırma amaçlı kullanılır
+
+verilerimiz = boy kilo yas / sonuc = yas
+
+Bölme işlemi entropi termodinamik dayanıyo
+
+Verileri Bölüyor Boyu 145den buyukler kucukler
+kilosu 60dan buyukler kucukler gibi cizgileri cektiğimiz zaman
+Veri setinde artık kareler diktorgenler olusmaya baslıyor 
+bu olusan dıkdortgenlerın ıcınde kalan verilerin ortalaması da orası temsıl edıyo
+
+
+png de gorundugu gibi yaprak dugumler ortalama yası ıfade edıyo
+mesela 175 65 kılo olan bırının yas ortalaması 39.6
