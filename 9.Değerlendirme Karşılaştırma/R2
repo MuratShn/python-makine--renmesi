@@ -1,0 +1,32 @@
+R2 R-Square,R-kare Yöntemi
+Geliştirdiğimiz modelin ne kadar iyi çalıştığını gösterir 
+eğerki r2 - değere düşerse çok boktandır  0 isede keza öyle 1 isede en iyisidir
+
+Hesaplaması png de vardır
+Yas hesaplaması yapıcaz mesela
+
+Hata kareleri toplamı = topla(yi-y'i)*(yi-y'i) ##(yi-y'i) karesi 
+kare alma sebebi - cıkmasın diye
+
+                  (Yas-tahmin)^2
+    Yas   Tahmin  Hata Karesi 
+1-  10     12         4
+2-  11     11         0
+3-  10     10         1
+4-  9      10         1
+5-  12     11         1
+6-  30     35         25
+7-  25     26         1
+8-  35     47         144
+
+Hata karelerinin toplamı = 177
+
+Tahmin ortalaması = 20,25
+
+Ortalama farkların toplamı =  (Yas degerleri - Tahmin ortalaması)^2
+
+
+R2 = 1- Hata karelerinin toplamı/ Ortalama farkların toplamı
+
+
+

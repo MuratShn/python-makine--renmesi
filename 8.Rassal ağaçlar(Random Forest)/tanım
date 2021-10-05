@@ -1,0 +1,22 @@
+Ensemble Learning == Kollektif Öğrenme
+Random forest bir kollektif oğrenmedir
+
+Birden fazla Sınıflandırma/Tahmin algoritmasi kullanarak hata payını en aza indirmek en iyi sonunucu 
+almak ıcın kullanılır
+
+Rassal ağaclar ise birden fazla karar ağıcının aynı veri kümesi için cizilmesi daha sonra 
+çözüm için hepsinin kullanılması
+
+veri kümesini alt kümelere bölüyo ondanda farklı farklı karar ağacı oluşur
+bunun devamında karar ağaclarında farklı farklı cızımler ortaya cıkıyo haliyle(biri 2 diyosa diğeri 3 diyo gibi)
+
+-----
+
+majority vote learining(Çoğunluğun oyu)
+
+Tahminlemede ise
+birden fazla tahmin algoritması calısıyo biri 10 biri 20 biri 30 diyo 
+sonuc olarak ortalaması cıkar 
+
+Sınıflandırmada 
+ıse 2 erkek 1 kadın dıyolarsa erkegı secıyolar
