@@ -1,0 +1,21 @@
+Makine öğrenmesi nerelerde Kullanılabilir
+-Bilgisayarda Görü
+	-Nesne tanıma
+	-Görüntü işleme
+-Sanal gerçeklik
+-Oyun sektörü
+-Ses tanıma,Metinden sese,Sesten metine
+-Robotlar
+-Pazarlama(Sosyal ağlar)
+-Tavsiye Algoritmaları(Film tavsiyesi vs)
+-Sağlık(Teşhiş tanım)
+-Uydu görüntüsü Yer bilimi
+-Sahtekarlık yakalama
+-Arama Motorları
+-Endüstri(Otomatik Araba Fabrikası vs)
+-Iot
+
+Base64 Encoding = binary verileri metne dönüştürerek saklamaya 
+veya iletmeye yarayan tekniklerden en yaygın olarak kullanılanıdır.
+
+----Verinin oldugu heryer----

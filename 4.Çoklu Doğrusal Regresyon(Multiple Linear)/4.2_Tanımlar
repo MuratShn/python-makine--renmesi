@@ -1,0 +1,43 @@
+basit doğrusal reg. farkı birden  fazla özellik(x) değişken alması
+fakat gene inşa ettiğimiz şey bir doğru
+
+basit doğrusal = 2 boyut
+çoklu doğrusal = 3 ve daha fazla boyut
+resimdeki e kısmı hata miktarı olması
+
+--------------
+
+Dummy Variable (Kukla Değişken) = Bir değişkenni ifade eden başka bir değişken
+(Örnk) DataFrame de cinsiyet kolonunda e/k yazarken biz bunu silip Sadece erkek colonu koyup 0/1(0=Kadın , 1=Erkek) dememize gelir
+Resimdeki örnekte gorundugu gıbı fakat biz hem cinsiyet hem erkek hem kadın kolonu koyarsak birkaç 
+makine öğrenimi algoritması dışında bize doğru sonuclar uretmeye bilir
+
+eğerki elimizde kişilerin doğduğu bolgelerin listesi var ise bunları kolon kolon yazmak mecburiyetinde
+olabiliriz çünkü kız olmamsı erkek oldugu anlamılar gelir ama istanbulda doğmamış olmamsı ankadara yada trabzonda doğmus olması anlamına gelmez
+
+--------------
+
+P-Value (Olasılık değeri)
+
+H0: null hypothesis :Farksız hipotezi,sıfır hipotezi,boş hipotezi 
+
+H1:Alternatif hipotezi
+
+p-değeri : Olasılık değeri(genelde %5 alınır 0.05)
+
+-- p değeri küçüldükte h0 hatalı olma ihtimali artar
+
+-- p değeri büyüdükce h1 hatalı olma ihtimali artar
+
+Örnk
+
+h0  = bir üretimde kutudaki kurabiyelerin sayısını 100 diyebiliriz
+yada ders izleme süresi arttıkça başarı artar
+
+h1 = h1 ise aksi(Alternatif) durumlar 100 altında yada üstünde kurabiye var yada başarı artmaz
+
+Sadece 1 örnekle (bi kutuda 99 kurabiye çıktı) hiçbirine güvenemiceniz anlamına gelmez
+
+p values ise ne kadar örnek bulursam h0 i çürütebilirim (güven aralığı)
+
+
